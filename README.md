@@ -1,0 +1,2 @@
+# DockerDesktopCAPMInitial
+Initial Devcontainer Configuration
