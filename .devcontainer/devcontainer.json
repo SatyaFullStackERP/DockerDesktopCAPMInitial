@@ -1,5 +1,5 @@
 {
-    "name": "SAP CAP - dev container for Docker",
+    "name": "SAP CAP - Dev container for Docker desktop image creation",
     "build": {
         "dockerfile": "Dockerfile",
         "args": {
