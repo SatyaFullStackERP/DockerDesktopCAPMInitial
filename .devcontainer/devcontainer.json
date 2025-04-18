@@ -1,7 +1,7 @@
 {
     "name": "SAP CAP - Dev container for Docker desktop image creation",
     "build": {
-        "dockerfile": "Dockerfile",
+        "dockerfile": "MyDockerfile4Image",
         "args": {
             "VARIANT": "20"
         }
